@@ -1,0 +1,12 @@
+# HTTP requests to fetch job postings
+requests==2.32.5
+
+# Data manipulation
+pandas==2.3.3
+
+# Visualization
+matplotlib==3.10.6
+
+# NLP embeddings for semantic job classification
+sentence-transformers==5.1.1
+torch==2.8.0
